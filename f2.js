@@ -1,6 +1,6 @@
-function add(a){
+function ad(a){
     return a+a;
 }
 module.exports={
-    sq : add
+    sq : ad
 }
